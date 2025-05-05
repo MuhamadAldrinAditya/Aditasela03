@@ -1,1 +1,47 @@
 # Aditasela03
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portofolio</title>
+    <style>
+        body {
+            background-color: #A4B465;
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #0e1872;
+        }
+        p {
+            font-size: 16px;
+            margin: 8px 0;
+            color: #161212;
+        }
+           
+        img {
+            width: 200px;
+            height: auto;
+            border: 2px solid #333;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Biodata Diri</h1>
+        <p><strong>Nama:</strong> Muhamad Aldrin Aditya Putra Asela</p>
+        <p><strong>Alamat:</strong> Jl. Medan Baru</p>
+        <p><strong>Hobi:</strong> Mancing</p>
+        <p><strong>Email:</strong> <span style="color: blue;">aditasela9@gmail.com</span></p>
+        <p><strong>Tanggal Lahir:</strong> 09 Juli 2004</p>
+        <p><strong>Prodi:</strong> Teknologi Industri Pertanian</p>
+    
+         <!-- Gambar -->
+     <img src=FotoAldrin.jpeg
+     
+    
+</body>
+</html> 
